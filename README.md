@@ -7,6 +7,9 @@
 # Machine Learning - Dog Breed Classifier
 
 ## Table of Contents
+- [Overview](#Overview)
+- [Running the code](#Running-the-code)
+- [Evaluation](#Evaluation)
 
 ## Overview
 
